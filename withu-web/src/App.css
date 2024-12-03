@@ -1,0 +1,19 @@
+.sidebar .active {
+    background-color: pink;
+    color: #000;
+}
+
+.sidebar .active svg {
+    color: #000;
+}
+
+.avatar{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #e5e5eeaf;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
